@@ -1,0 +1,8 @@
+{
+  "cph.general.saveLocation": "",
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar"
+    ]
+  }
+}
